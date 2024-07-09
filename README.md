@@ -66,5 +66,7 @@ The final prediction performance of trained model is as:
 3. PointNet effectively handles unordered point cloud data.
 4. ModelNet10 dataset provided diverse 3D objects for training.
 5. Future work may include exploring different architectures and data augmentation techniques.
+### Pretrained model
+Is available [here.](model_acc83.pth)
 
 Implementation by Naveen Raja Elangovan
